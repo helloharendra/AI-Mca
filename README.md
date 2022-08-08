@@ -23,9 +23,3 @@
 ![Screenshot 2022-08-08 at 3 08 54 PM](https://user-images.githubusercontent.com/78723011/183389257-c2923d03-b382-4dc9-8a0d-80c0ec0c6ff3.png)
 7f4c.png)
 
-# pdf of Output 
-## first program output
-[Pandas Profiling Report.pdf](https://github.com/harendraprajapati72/AI-Mca/files/9281176/Pandas.Profiling.Report.pdf)
-
-## Minimal Output
-[Pandas Profiling Report.pdf](https://github.com/harendraprajapati72/AI-Mca/files/9281165/Pandas.Profiling.Report.pdf)
